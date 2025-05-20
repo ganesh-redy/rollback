@@ -15,7 +15,7 @@ spec:  # fixed
     spec:  # added
       containers:
         - name: okay
-          image: ganesh6498/deploy1
+          image: ganesh6498/deploy3
           ports:
             - containerPort: 80
 
